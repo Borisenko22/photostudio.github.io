@@ -341,6 +341,14 @@ body {
   .contact{
     padding-top: 10px !important;
   }
+
+  .footer {
+    height: 120px !important;
+  }
+
+  .footer p {
+    line-height: 120px !important;
+  }
 }
 @media (max-width: 580px){
   .greeting__inner h1 {
@@ -375,6 +383,7 @@ body {
   .contact__title{
     font-size: 30px;
   }
+
 }
 @media(max-width: 375px ){
   .section_title {
