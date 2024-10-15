@@ -351,6 +351,15 @@ body {
   .section_title {
     font-size: 32px;
   }
+
+  .greeting {
+    padding-top: 10px !important;
+  }
+
+  .greeting__body img {
+    height: 320px !important;
+  }
+
   .about-content__list{
     padding: 10px 30px !important;
   }
@@ -374,7 +383,6 @@ body {
   .greeting__inner h1 {
     font-size: 30px !important;
   }
-
   .contacts__inner p {
     font-size: 16px;
   }
