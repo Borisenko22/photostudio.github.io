@@ -175,7 +175,7 @@ body {
   background: linear-gradient(202deg, 
   rgba(0, 0, 0, 0) 0%, 
   rgba(0, 0, 0, 0.8) 100%), 
-  url("img/background-image.jpg");
+  url("../img/background-image.jpg");
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
@@ -268,7 +268,7 @@ body {
   color: #fff; /* Контрастный цвет текста для лучшей читаемости */
   font-size: 16px;
   background: 
-  url("img/footer_bg.jpg");
+  url("../img/footer_bg.jpg");
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
